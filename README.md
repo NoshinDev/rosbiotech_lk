@@ -17,7 +17,13 @@
 </p>
 
 # Скриншоты
-
-
-
-
+<p float="left">
+  <img src="https://raw.githubusercontent.com/NoshinDev/rosbiotech_lk/main/assets/main.jpeg" width="150" />
+  <img src="https://raw.githubusercontent.com/NoshinDev/rosbiotech_lk/main/assets/schedule.jpeg" width="150" />
+  <img src="https://raw.githubusercontent.com/NoshinDev/rosbiotech_lk/main/assets/payment.png" width="150" />
+  <img src="https://raw.githubusercontent.com/NoshinDev/rosbiotech_lk/main/assets/gradebook.jpeg" width="150" />
+  <img src="https://raw.githubusercontent.com/NoshinDev/rosbiotech_lk/main/assets/mfc.jpeg" width="150" />
+    <img src="https://raw.githubusercontent.com/NoshinDev/rosbiotech_lk/main/assets/scholarship.jpeg" width="150" />
+        <img src="https://raw.githubusercontent.com/NoshinDev/rosbiotech_lk/main/assets/worker.jpeg" width="150" />
+          <img src="https://raw.githubusercontent.com/NoshinDev/rosbiotech_lk/main/assets/statement.jpeg" width="150" />
+ </p>
